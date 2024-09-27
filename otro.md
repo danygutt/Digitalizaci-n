@@ -1,2 +1,7 @@
+# Esta es la otra pagina
 
-asd
+[Volver atrá]()
+
+Aqui vamos a ver
+*fotos
+*videos
