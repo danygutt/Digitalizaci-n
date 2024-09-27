@@ -1,4 +1,4 @@
-# Digitalizaci-n
+# Digitalizacion
 Asignatura de digitalización
 
 * [enlace a la otra pagina](otro.md)
