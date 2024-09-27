@@ -1,6 +1,6 @@
 # Esta es la otra pagina
 
-[Volver atrá]()
+[Volver atrás](README.md)
 
 Aqui vamos a ver
 
